@@ -24,7 +24,7 @@
 **CI/CD & Automation**
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![AWS DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 **Languages & Scripting**
 
@@ -53,6 +53,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [Kubernetes Microservices Deploy](https://github.com/Alex-Agbey/online-boutique-k8s) Full Kubernetes deployment of multi tier apps | Helm | RBAC |
 | [K8s Cluster Setup](https://github.com/Alex-Agbey/mylastone) | Full Kubernetes cluster with kubeadm on AWS | kubeadm, AWS EC2, Calico |
 | [CI/CD with OIDC](https://github.com/Alex-Agbey/assign-ec2) | GitHub Actions pipelines with OIDC auth | GitHub Actions, AWS, Docker |
 | [Three-Tier App on K8s](https://github.com/Alex-Agbey/docker-fullstack-project) | Production-ready three-tier app deployment | Kubernetes, NGINX Ingress, cert-manager |
