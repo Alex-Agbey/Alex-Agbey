@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alex Agbey 👋</h1>
+<h1 align="center">Hi, I'm Alex Torgboshie 👋</h1>
 
 <p align="center">
   <b>DevOps Engineer & IT Specialist</b> · AWS · Kubernetes · Docker · CI/CD
@@ -6,7 +6,7 @@
 
 <p align="center">
   🌍 Ghana, West Africa &nbsp;|&nbsp;
-  🎯 Targeting Platform Engineering & SRE Roles &nbsp;|&nbsp;
+  🎯 Targeting DevOps Engineering & SRE Roles &nbsp;|&nbsp;
   📚 Continuous Builder
 </p>
 
@@ -53,7 +53,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [Kubernetes Microservices Deploy](https://github.com/Alex-Agbey/online-boutique-k8s) Full Kubernetes deployment of multi tier apps | Helm | RBAC |
+| [Kubernetes Microservices Deploy](https://github.com/Alex-Agbey/online-boutique-k8s) | Full Kubernetes deployment of multi tier apps | Helm | RBAC |
 | [K8s Cluster Setup](https://github.com/Alex-Agbey/mylastone) | Full Kubernetes cluster with kubeadm on AWS | kubeadm, AWS EC2, Calico |
 | [CI/CD with OIDC](https://github.com/Alex-Agbey/assign-ec2) | GitHub Actions pipelines with OIDC auth | GitHub Actions, AWS, Docker |
 | [Three-Tier App on K8s](https://github.com/Alex-Agbey/docker-fullstack-project) | Production-ready three-tier app deployment | Kubernetes, NGINX Ingress, cert-manager |
