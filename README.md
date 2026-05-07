@@ -6,7 +6,7 @@
 
 <p align="center">
   🌍 Ghana, West Africa &nbsp;|&nbsp;
-  🎯 Targeting DevOps Engineering & SRE Roles &nbsp;|&nbsp;
+  🎯 DevOps Engineer & AWS & SRE Roles &nbsp;|&nbsp;
   📚 Continuous Builder
 </p>
 
