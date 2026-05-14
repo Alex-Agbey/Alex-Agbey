@@ -55,7 +55,7 @@
 |---|---|---|
 | [Kubernetes Microservices Deploy](https://github.com/Alex-Agbey/online-boutique-k8s) | Full Kubernetes deployment of multi tier apps | Helm | RBAC |
 | [K8s Cluster Setup](https://github.com/Alex-Agbey/mylastone) | Full Kubernetes cluster with kubeadm on AWS | kubeadm, AWS EC2, Calico |
-| [CI/CD with OIDC](https://github.com/Alex-Agbey/SRE-1) | GitHub Actions pipelines with OIDC auth | GitHub Actions, AWS, Docker |
+| [CI/CD with OIDC](https://github.com/Alex-Agbey/devops-bash-scripts) GitHub Actions pipelines with OIDC auth | GitHub Actions, AWS, Docker |
 | [Three-Tier App on K8s](https://github.com/Alex-Agbey/docker-fullstack-project) | Production-ready three-tier app deployment | Kubernetes, NGINX Ingress, cert-manager |
 | [Bash Scripting Library](https://github.com/Alex-Agbey/REPO) | DevOps automation scripts — 3 volumes | Bash, Linux |
 | [AWS Multi-Service Deploy](https://github.com/Alex-Agbey/assgn-S3) | ECS, EB, S3/CloudFront deployments | AWS, GitHub Actions |
