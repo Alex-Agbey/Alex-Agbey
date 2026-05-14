@@ -55,7 +55,7 @@
 |---|---|---|
 | [Kubernetes Microservices Deploy](https://github.com/Alex-Agbey/online-boutique-k8s) | Full Kubernetes deployment of multi tier apps | Helm | RBAC |
 | [K8s Cluster Setup](https://github.com/Alex-Agbey/mylastone) | Full Kubernetes cluster with kubeadm on AWS | kubeadm, AWS EC2, Calico |
-| [CI/CD Bash Scripting](https://github.com/Alex-Agbey/devops-bash-scripts) DevOps Automation Script | System | Log | Docker image scan | Server Health | K8s
+| [CI/CD Bash Scripting](https://github.com/Alex-Agbey/devops-bash-scripts) | DevOps Automation Script | System | Log | Docker image scan | Server Health | K8s
 | [Three-Tier App on K8s](https://github.com/Alex-Agbey/docker-fullstack-project) | Production-ready three-tier app deployment | Kubernetes, NGINX Ingress, cert-manager |
 | [AWS Multi-Service Deploy](https://github.com/Alex-Agbey/assgn-S3) | ECS, EB, S3/CloudFront deployments | AWS, GitHub Actions |
 
